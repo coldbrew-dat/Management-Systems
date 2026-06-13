@@ -1,9 +1,7 @@
 # 🎓 Student Management System
 
-**Course:** IT in Business  
-**Semester:** 1  
+**Course:** IT in Business 
 **Language:** Python (Console-based)  
-**Type:** Final Project
 
 ---
 
@@ -31,7 +29,7 @@ A console-based Student Management System built entirely in Python during the fi
 
 | Component | Detail |
 |-----------|--------|
-| Language | Python 3 |
+| Language | Python  |
 | Interface | Console / CLI |
 | Storage | In-memory (runtime only) |
 | Libraries | None (pure Python) |
