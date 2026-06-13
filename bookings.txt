@@ -1,0 +1,12 @@
+wajahat,Ride,1,12.0,460.0
+wajahat,Parcel,13.0,22.0,960.0
+waji,Ride,1,33.0,1090.0
+abc,Parcel,12.0,13.0,715.0
+abc,Ride,4,19.0,1050.0
+wajahat,Ride,2,12.0,460.0
+wajahat,Parcel,90.0,11.0,2225.0
+waji,Ride,3,12.0,700.0
+waji,Ride,1,90.0,2800.0
+john,Ride,2,33.0,1090.0
+asad,Ride,2,22.0,760.0
+ali,Ride,1.Bike,12.0,700.0
