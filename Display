@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Management Systems Project</title>
+    <title> Management Systems</title>
 </head>
 <body>
-    <h1> Management Systems Project</h1>
-    <p> This repository contains management system projects developed using various technologies.</p>
-    <p><a href="https://github.com/coldbrew-dat/Management-Systems">View Source Code on GitHub</a></p>
+    <h1> Management Systems</h1>
+    <p> This repository contains management system projects developed as part of my academic and professional work.</p>
+    <p>
+        <a href="https://github.com/coldbrew-dat/Management-Systems">
+            View Source Code on GitHub
+        </a>
+    </p>
 </body>
 </html>
